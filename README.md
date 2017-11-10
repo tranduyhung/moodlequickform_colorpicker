@@ -18,6 +18,8 @@ local/my_plugin/forms/my_form.php
 local/my_plugin/forms/colorpicker/colorpicker.php
 
 ```
+
+```
 <?php
 global $CFG;
 
